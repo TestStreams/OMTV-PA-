@@ -153,3 +153,5 @@ http://fl3.moveonjoy.com/CMT/index.m3u8
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels",TCM (Turner Classic Movies) East
+http://fl1.moveonjoy.com/TCM/index.m3u8
