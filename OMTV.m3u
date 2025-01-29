@@ -11,3 +11,5 @@ https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="",WPIX-DT1
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="",WNYW-DT1
+https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
