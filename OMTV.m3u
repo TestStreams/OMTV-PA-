@@ -75,3 +75,5 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="Lifetime Movies Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Live Channels",Lifetime Movies Network
 http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/212.m3u8
