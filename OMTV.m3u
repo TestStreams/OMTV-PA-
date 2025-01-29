@@ -127,3 +127,5 @@ http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels",HGTV East
 http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/WE_tvred.svg/revision/latest?cb=20210606211640" group-title="Live Channels",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
