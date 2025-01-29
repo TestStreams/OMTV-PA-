@@ -149,3 +149,5 @@ http://74.48.44.156:1234/stream/asd/425/master.m3u8
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels",CMT East
 http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="",Syfy East
+http://fl2.moveonjoy.com/SYFY/index.m3u8
