@@ -155,3 +155,7 @@ http://fl2.moveonjoy.com/SYFY/index.m3u8
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels",TCM (Turner Classic Movies) East
 http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central East
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="Entertainment",Game Show Network East
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
