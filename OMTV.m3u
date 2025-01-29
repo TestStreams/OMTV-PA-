@@ -7,3 +7,5 @@ https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 #EXTINF:-1 tvg-id="WFMZ" tvg-name="WFMZ" tvg-logo="https://yt3.googleusercontent.com/q3XkC3OqhnjbrOqYK66z6uV3TmFMaNQGAhsX2cV_GN4ip2dHygomPxpQxF0m-i-iFz7Dw24gUg=s900-c-k-c0x00ffffff-no-rj",WFMZ
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png" group-title="",WCAU-DT1
+https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8
