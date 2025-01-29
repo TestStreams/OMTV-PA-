@@ -47,3 +47,5 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png" group-title="",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="Live Channels",TBS East
+http://fl1.moveonjoy.com/TBS/index.m3u8
