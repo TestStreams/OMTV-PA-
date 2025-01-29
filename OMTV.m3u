@@ -151,3 +151,5 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="",Syfy East
 http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
