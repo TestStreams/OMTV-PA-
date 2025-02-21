@@ -28,7 +28,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="Live Channels",ACC Network
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Live Channels",ESPN
-http://fl1.moveonjoy.com/ESPN/index.m3u8
+https://tvpass.org/live/ESPN/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="Live Channels",ESPN2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Live Channels",ESPN Deportes
